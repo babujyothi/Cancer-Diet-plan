@@ -1,0 +1,6 @@
+{
+  "name": "VRK Gastric Diet Cookbook",
+  "description": "A comprehensive interactive cookbook and guide based on Veeramachaneni Ramakrishna diet rules tailored structurally for Gastric Reoccurrence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
